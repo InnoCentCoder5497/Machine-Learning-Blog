@@ -17,4 +17,7 @@ The objective of a ML model, is to find weights that minimises the cost function
 
 <b>Mathematically</b>, Gradient descent is a first-order iterative optimization algorithm for finding the minimum of a function. To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient (or approximate gradient) of the function at the current point.
 
-In the jupyter notebook, you can see the algorithm in action.
+In the jupyter notebook, you can see the algorithm in action and I highly encourage you to run the notebook on your own host machine or in Google Colab and start to experiment with different walues like learning rate, epochs or maybe you can also write your own function and optimize it.
+
+### For Non-coders
+Although I highly encourage you to start learning how to code, becuse according to me it gives you new ways to think about solving a problem. Anyways, for you guys specially i am currently creating a Simple GUI application that you can run on your system without installing anything extra and get the feel of experimenting with different values and observing their effects on the algorithm. Although you will not be able to define your own functions as Coders might do it. COMING SOON. 
