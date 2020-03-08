@@ -10,7 +10,7 @@ There are two types of classification problems,
 Below image shows how the model creates a decision boundary between two classes in a dataset,
 
 <p align="center">
-    <img src="./imgs/LogReg.png" width=512 height = 512 />
+    <img src="./imgs/logReg.PNG" width=512 height = 512 />
 </p>
 
 The <b>Disadvantage</b> of Logistic regression is that it makes a linear boundary and is very inefficient when we try to model non-linear boundaries.
