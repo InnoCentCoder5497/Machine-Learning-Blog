@@ -4,3 +4,4 @@ This repository contains all the code for tutorials present on my blog. Visit ht
 - Added Gradient Decent
 - Added Linear Regression
 - Added Logistic Regression
+- Added kNN
